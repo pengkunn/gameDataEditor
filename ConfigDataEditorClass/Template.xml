@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Template>
+  <Name></Name>
+  <Code></Code>
+  <Memo></Memo>
+  <Item>
+    <Name></Name>
+    <Code></Code>
+    <Type></Type>
+    <ClassName></ClassName>
+    <EnumValue></EnumValue>
+    <DefaultValue></DefaultValue>
+    <Memo></Memo>
+  </Item>
+</Template>

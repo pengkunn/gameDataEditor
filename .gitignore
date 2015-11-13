@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TemplateEditor/v14
+/ConfigDataEditorClass/bin/Debug
+/ConfigDataEditorClass/obj/Debug
+/ConfigDataEditorUI/bin/Debug
+/ConfigDataEditorUI/obj/Debug
+/TemplateEditorClass/bin/Debug
+/TemplateEditorClass/obj/Debug
+/TemplateEditorUI/bin/Debug
+/TemplateEditorUI/obj/Debug
+*.suo

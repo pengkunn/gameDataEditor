@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<template>
+  <id></id>
+  <name></name>
+  <code></code>
+  <memo></memo>
+  <item>
+    <itemid></itemid>
+    <itemname></itemname>
+    <itemcode></itemcode>
+    <type></type>
+    <defaultvalue></defaultvalue>
+    <itemmemo></itemmemo>
+  </item>
+</template>
